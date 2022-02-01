@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.card {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 98px;
+  height: 402px;
+}
+body {
+  text-align: center;
+  background-color: rgb(243, 239, 233);
+}
+img {
+  position: static;
+  top: 2px;
+  height: 20px;
+}
+hr {
+  width: 284px;
+  position: relative;
+  left: 32px;
+  color: grey;
+  top: 33px;
+}
+p {
+  padding: 12px;
+  margin: 8px;
+}
+h3 {
+  position: relative;
+  top: 25px;
+}
+img {
+  position: relative;
+  top: 18px;
+  height: 154px;
+}
